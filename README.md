@@ -201,7 +201,4 @@ No external datasets are required for Anomaly 2 and Anomaly 3 — they generat
 
 ---
 
-## Appendix — Detected Functions (from the notebook)
-average_weights , client_decrypt_and_check , client_encrypt_location , create_model , decode_square_int , demo , dp_train_step , encode_coord , encode_square , generate_keys , generate_synthetic_client_data , laplace_mechanism , server_compute_encrypted_distance_squared , set_model_weights , shannon_entropy_from_userlist
-
 
